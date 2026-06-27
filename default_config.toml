@@ -1,0 +1,10 @@
+# Russian Proportion Mod Configuration
+# Edit this file, then press F3+T in-game (or restart) for changes to apply.
+
+[general]
+    # Enable custom aspect ratio stretching. Default: true
+    enable = true
+
+    # Target aspect ratio (width:height). Default: 4:3
+    # Examples: 4:3, 16:9, 16:10, 21:9, 1:1
+    targetRatio = "4:3"
